@@ -1,0 +1,14 @@
+
+data/*
+data/*csv
+data/*xls
+data/*wav
+data/*png
+data/*zip
+*.vscode*
+
+*csv
+*xls
+*wav
+*png
+*zip
